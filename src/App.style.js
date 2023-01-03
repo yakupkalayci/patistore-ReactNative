@@ -13,5 +13,13 @@ export default StyleSheet.create({
   },
   header_first: {
     color: 'red'
+  },
+  infoMessage: {
+    textAlign: 'center',
+    fontWeight: 'bold',
+    color: 'red',
+    fontSize: 20,
+    marginTop: 10,
+    marginBottom: 10
   }
 });
